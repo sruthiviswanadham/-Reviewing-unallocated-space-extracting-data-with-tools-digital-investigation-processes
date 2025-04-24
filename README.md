@@ -36,7 +36,8 @@ strings disk.img | less
 ![image](https://github.com/user-attachments/assets/a44fc512-97c6-4f3c-b6e2-3134b88df097)
 ![image](https://github.com/user-attachments/assets/50064674-2dd3-4d7b-8632-3d8dc252f907)
 ![image](https://github.com/user-attachments/assets/9f27f049-bc0a-45ce-819c-7a07b7dc3fcf)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f9a59ebe-4015-421a-b0a8-0bd3058c88d6)
+
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
